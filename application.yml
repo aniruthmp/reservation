@@ -3,4 +3,4 @@ server:
 
 management.port: 9005
 
-message: Hi from New Repository Jan 26 2017 !!
+message: Hi from application.yml Jan 26 2017 !!
