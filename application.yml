@@ -1,0 +1,6 @@
+server:
+  port: ${PORT:8001}
+
+management.port: 9005
+
+message: Hi from New Repository Jan 26 2017 !!
